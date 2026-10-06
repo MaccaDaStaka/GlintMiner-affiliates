@@ -1,10 +1,5 @@
 {
-  "serial": 1,
-  "issued": 1791292214,
-  "affiliates": [
-    {
-      "code": "DEFIGAV",
-      "wallet": "prl1prze8pmh0lnlgtd80snejrjhfhplut52n3xxrr62jydp6v0zk4slsf73th9"
-    }
-  ]
+  "serial": 2,
+  "issued": 1791293160,
+  "affiliates": []
 }
