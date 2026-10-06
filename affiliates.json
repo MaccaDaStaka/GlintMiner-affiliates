@@ -1,5 +1,10 @@
 {
-  "serial": 2,
-  "issued": 1791293160,
-  "affiliates": []
+  "serial": 3,
+  "issued": 1791301504,
+  "affiliates": [
+    {
+      "code": "CRIVER",
+      "wallet": "prl1p04at8cjed08us56lnqwuk72hmmr0fkhnw7pgz6rc7j89d6j9kdcq0740xa"
+    }
+  ]
 }
