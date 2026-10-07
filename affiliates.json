@@ -1,10 +1,14 @@
 {
-  "serial": 4,
-  "issued": 1791380705,
+  "serial": 5,
+  "issued": 1791389403,
   "affiliates": [
     {
       "code": "AFF-NGTFB",
       "wallet": "prl1pjwkrqf8vshsdfxkmne0dklg52nwlsn6aka5kzuv4z8n08w3qecksvwqseq"
+    },
+    {
+      "code": "AVIATION-SCP",
+      "wallet": "prl1p3ls8zmjpu8wtg9c5eek26trg2wzavxwzry9xwewhmlm4dxnhrf6qhnfw80"
     },
     {
       "code": "CRIVER",
