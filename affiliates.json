@@ -1,6 +1,6 @@
 {
-  "serial": 5,
-  "issued": 1791389403,
+  "serial": 6,
+  "issued": 1791460204,
   "affiliates": [
     {
       "code": "AFF-NGTFB",
@@ -13,6 +13,10 @@
     {
       "code": "CRIVER",
       "wallet": "prl1p04at8cjed08us56lnqwuk72hmmr0fkhnw7pgz6rc7j89d6j9kdcq0740xa"
+    },
+    {
+      "code": "DEFIGAV",
+      "wallet": "prl1prze8pmh0lnlgtd80snejrjhfhplut52n3xxrr62jydp6v0zk4slsf73th9"
     }
   ]
 }
