@@ -1,9 +1,13 @@
 {
-  "serial": 9,
-  "issued": 1792030204,
+  "serial": 10,
+  "issued": 1792076103,
   "affiliates": [
     {
       "code": "AFF-NGTFB",
+      "wallet": "prl1pjwkrqf8vshsdfxkmne0dklg52nwlsn6aka5kzuv4z8n08w3qecksvwqseq"
+    },
+    {
+      "code": "AFF-TMGNP",
       "wallet": "prl1pjwkrqf8vshsdfxkmne0dklg52nwlsn6aka5kzuv4z8n08w3qecksvwqseq"
     },
     {
